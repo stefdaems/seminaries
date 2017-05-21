@@ -1,0 +1,24 @@
+{
+  "name": "fiscaleseminaries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefdaems/seminaries.git"
+  },
+  "keywords": [
+    "fiscale",
+    "seminaries",
+    "rob"
+  ],
+  "author": "Stef Daems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefdaems/seminaries/issues"
+  },
+  "homepage": "https://github.com/stefdaems/seminaries#readme"
+}
